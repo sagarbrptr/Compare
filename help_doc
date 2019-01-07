@@ -1,0 +1,13 @@
+Paste 1st code in first_program.cpp
+Similarly, 2nd in second_program.cpp
+
+write test_generation code in test_generator.cpp
+
+### DO NOT CHANGE THE NAME OF THE FILES ### 
+go to compare dir
+
+then
+>>chmod +x main.sh
+>>./main.sh
+
+wait for results
